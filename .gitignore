@@ -9,3 +9,11 @@ Car_count/output_mask_track_final_count.mp4
 People_count/Dataset/people_couting_2.mp4
 People_count/=0.5.0
 People_count/=0.19.0
+/home/ritu/object_detection/PPE_DETECTION/test
+/home/ritu/object_detection/PPE_DETECTION/train
+/home/ritu/object_detection/PPE_DETECTION/valid
+/home/ritu/object_detection/PPE_DETECTION/hardhat.mp4
+/home/ritu/object_detection/PPE_DETECTION/README.dataset.txt
+/home/ritu/object_detection/PPE_DETECTION/README.roboflow.txt
+/home/ritu/object_detection/PPE_DETECTION/data.yaml
+/home/ritu/object_detection/PPE_DETECTION/model.pt
